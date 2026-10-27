@@ -1,1 +1,2 @@
 Hello from kiruthika Interview Project
+Automatic CI/CD test successful
